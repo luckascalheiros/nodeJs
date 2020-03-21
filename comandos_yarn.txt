@@ -1,0 +1,4 @@
+yarn -v     //Mostra a versão do Yarn instalada
+yarn init -y    //cria o arquivo json
+yarn add express    //adiciona o expresse que é um framwork do node para micro funções, cria dependencia altomatica no arquivo json
+yarn    //adiciona todas as dependencias de forma automática
